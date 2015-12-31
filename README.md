@@ -1,4 +1,4 @@
-Ronald-Nyami.github.io
-======================
+My Portfolio
+=========================
 
-my brand news website on github: [http://ronald-nyami.github.io]
+Powered by Jekyll
